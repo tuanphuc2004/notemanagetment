@@ -1,0 +1,22 @@
+{
+  "note":[
+            {
+              "title": "Lập trình Mobile",
+              "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
+              "priority": "1",
+              "createdAt": DateTime.now().toIso8601String(),
+              "modifiedAt": DateTime.now().toIso8601String(),
+              "tags": "Flutter,Mobile,Dart",
+              "color": "#faebd7"
+            }, 
+            {
+              "title": "Toi ten la",
+              "content": "Hoang Tuan Phuc",
+              "priority": "2",
+              "createdAt": DateTime.now().toIso8601String(),
+              "modifiedAt": DateTime.now().toIso8601String(),
+              "tags": "name",
+              "color": "#faebd7"
+            }
+          ]
+}
