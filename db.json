@@ -1,22 +1,21 @@
-{
-  "note":[
-            {
-              "title": "Lập trình Mobile",
-              "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
-              "priority": "1",
-              "createdAt": null,
-              "modifiedAt": null,
-              "tags": "Flutter,Mobile,Dart",
-              "color": "#faebd7"
-            }, 
-            {
-              "title": "Toi ten la",
-              "content": "Hoang Tuan Phuc",
-              "priority": "2",
-              "createdAt": null,
-              "modifiedAt": null,
-              "tags": "name",
-              "color": "#faebd7"
-            }
-          ]
-}
+"notes": [
+              {
+                "title": "Lập trình Mobile",
+                "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
+                "priority": "3",
+                "createdAt": "2025-04-08T18:30:00.000Z",
+                "modifiedAt": "2025-04-08T18:30:00.000Z",
+                "tags": "Flutter,Mobile,Dart",
+                "color": "#faebd7"
+              },
+              {
+                "title": "Tôi tên là",
+                "content": "Hoàng Phúc",
+                "priority": "1",
+                "createdAt": "2025-04-08T18:30:00.000Z",
+                "modifiedAt": "2025-04-08T18:30:00.000Z",
+                "tags": "22DTH1",
+                "color": "#faebd7"
+              },
+              
+          ],
