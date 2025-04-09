@@ -1,4 +1,5 @@
-"notes": [
+{
+  "notes": [
               {
                 "title": "Lập trình Mobile",
                 "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
@@ -16,6 +17,7 @@
                 "modifiedAt": "2025-04-08T18:30:00.000Z",
                 "tags": "22DTH1",
                 "color": "#faebd7"
-              },
+              }
               
-          ],
+          ]
+}
